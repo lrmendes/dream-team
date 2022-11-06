@@ -8,7 +8,7 @@ An application produced for the [Geekathon 2022](http://geekathon.dev).
 ## Pitch Presentation
 ### https://pitch.com/public/07a7b7c5-2802-45af-a370-140e77a7d38b
 ## App Showcase
-### https://www.youtube.com/watch?v=CH4eiXm36KA
+### https://youtu.be/hRdngeRLJSA
 ## Prototype
 ### https://www.figma.com/file/38x2LeV18RtS3TAxDY0Uw9/dream-team
 
