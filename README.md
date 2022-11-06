@@ -10,7 +10,7 @@ An application produced for the [Geekathon 2022](http://geekathon.dev).
 ## App Showcase
 ### https://youtu.be/hRdngeRLJSA
 ## Prototype
-### https://www.figma.com/file/38x2LeV18RtS3TAxDY0Uw9/dream-team
+### https://www.figma.com/proto/38x2LeV18RtS3TAxDY0Uw9/dream-team?page-id=12%3A2&node-id=12%3A78&viewport=1058%2C764%2C0.9&scaling=scale-down&starting-point-node-id=35%3A4899
 
 ![Mockups 01](https://user-images.githubusercontent.com/14244140/200169700-5ecdc615-0a46-4882-9fed-cc7b4b4eacf4.png)
 ![Mockups 02](https://user-images.githubusercontent.com/14244140/200169701-e5e15872-0043-46dc-be05-08b8db9c9b3e.png)
